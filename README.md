@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pragatikavra
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning puthon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
